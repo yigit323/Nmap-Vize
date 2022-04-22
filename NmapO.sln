@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NmapO", "NmapO\NmapO.csproj", "{28274810-6E90-4596-AB59-648776121782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28274810-6E90-4596-AB59-648776121782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28274810-6E90-4596-AB59-648776121782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28274810-6E90-4596-AB59-648776121782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28274810-6E90-4596-AB59-648776121782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D36D3D5-7FC9-494F-956F-633B6F25A598}
+	EndGlobalSection
+EndGlobal
