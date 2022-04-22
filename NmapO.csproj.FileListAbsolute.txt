@@ -1,0 +1,7 @@
+C:\Users\bk4lk\source\repos\NmapO\NmapO\bin\Debug\NmapO.exe.config
+C:\Users\bk4lk\source\repos\NmapO\NmapO\bin\Debug\NmapO.exe
+C:\Users\bk4lk\source\repos\NmapO\NmapO\bin\Debug\NmapO.pdb
+C:\Users\bk4lk\source\repos\NmapO\NmapO\obj\Debug\NmapO.csproj.AssemblyReference.cache
+C:\Users\bk4lk\source\repos\NmapO\NmapO\obj\Debug\NmapO.csproj.CoreCompileInputs.cache
+C:\Users\bk4lk\source\repos\NmapO\NmapO\obj\Debug\NmapO.exe
+C:\Users\bk4lk\source\repos\NmapO\NmapO\obj\Debug\NmapO.pdb
